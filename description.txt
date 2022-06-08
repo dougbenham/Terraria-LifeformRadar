@@ -1,0 +1,1 @@
+Lifeform Radar is like a Boss Cursor for NPCs that would be detected by the lifeform analyzer.

@@ -1,0 +1,3 @@
+displayName = Lifeform Radar
+author = Doug
+version = 0.1
