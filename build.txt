@@ -1,3 +1,4 @@
 displayName = Lifeform Radar
 author = Transcend
-version = 0.2
+version = 1.0
+homepage = https://github.com/dougbenham/Terraria-LifeformRadar
